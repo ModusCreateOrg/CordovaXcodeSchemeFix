@@ -1,6 +1,6 @@
 # Cordova Xcode Scheme Fix
 
-Uses a Cordova build hook to set up Xcode schemes enabling iOS workflow without ever opening Xcode.
+Uses a Cordova build hook to set up Xcode schemes enabling iOS workflow without ever opening Xcode.  Discussed in [this blog post](http://moduscreate.com/cordova_xcodebuild_hangs_freezes_during_build/).
 
 ## Problem
 
